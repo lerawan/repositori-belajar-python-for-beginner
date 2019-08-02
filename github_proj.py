@@ -1,0 +1,1 @@
+print('Proyek github untuk belajar Python Programming for Beginner from Scratch')
